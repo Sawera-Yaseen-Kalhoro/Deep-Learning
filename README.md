@@ -4,7 +4,7 @@ This repository contains the implementation of many different types of Deep lear
 ## **Lab0**
 This folder contains the implementation of binary and multinomial logistic regression.
 
-## **Lab1 **
+## **Lab1**
 This folder contains the implementation of Fully Connected Neural Networks (FCNNs) using numpy and followed by using Pytorch. SVM is also implemented using the scikit-learn library to compare the results. The models are implemented on the MNIST dataset.
 
 ## **Lab2**
